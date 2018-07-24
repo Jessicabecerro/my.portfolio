@@ -1,0 +1,18 @@
+.image img{
+  <img src="paris.jpg" alt="Paris" style="width:50%">
+
+}
+  footer{
+    height: 500px;
+    color: magenta;
+    background-color: yellow
+    text-align:center;
+    padding: 25px;
+    font-size: 24px;
+  }
+
+body{
+  font-family: 'Merienda', cursive;
+}
+
+    /' change background of Ingrediants '/
